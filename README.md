@@ -1,3 +1,4 @@
+$ ./tree-md .
 # Liquibase
 
 Directory structure:
