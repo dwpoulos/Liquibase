@@ -1,8 +1,9 @@
-$ ./tree-md .
 # Liquibase
 
 Change Log Example:
+
 ...
+.
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <databaseChangeLog
         xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
