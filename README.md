@@ -2,24 +2,15 @@
 
 Directory structure:
 ```
-+-- docs/
-¦   +-- index.md
-¦   +-- en
-¦   ¦   +-- 00_Getting_Started.md
-¦   ¦   +-- 01_Examples
-¦   ¦   ¦   +-- 01_GitHub_Flavored_Markdown.md
-¦   ¦   ¦   +-- 05_Code_Highlighting.md
-¦   ¦   +-- 05_More_Examples
-¦   ¦   ¦   +-- Hello_World.md
-¦   ¦   ¦   +-- 05_Code_Highlighting.md
-¦   +-- de
-¦   ¦   +-- 00_Getting_Started.md
-¦   ¦   +-- 01_Examples
-¦   ¦   ¦   +-- 01_GitHub_Flavored_Markdown.md
-¦   ¦   ¦   +-- 05_Code_Highlighting.md
-¦   ¦   +-- 05_More_Examples
-¦   ¦   ¦   +-- Hello_World.md
-¦   ¦   ¦   +-- 05_Code_Highlighting.md
-```
-
-
+.
+ * [tree-md](./tree-md)
+ * [dir2](./dir2)
+   * [file21.ext](./dir2/file21.ext)
+   * [file22.ext](./dir2/file22.ext)
+   * [file23.ext](./dir2/file23.ext)
+ * [dir1](./dir1)
+   * [file11.ext](./dir1/file11.ext)
+   * [file12.ext](./dir1/file12.ext)
+ * [file_in_root.ext](./file_in_root.ext)
+ * [README.md](./README.md)
+ * [dir3](./dir3)
